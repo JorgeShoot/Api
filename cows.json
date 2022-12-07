@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Cow 1",
+    "weight": 300,
+    "food": 9
+  },
+  {
+    "name": "Cow 2",
+    "weight": 700,
+    "food": 28
+  },
+  {
+    "name": "Cow 3",
+    "weight": 650,
+    "food": 26
+  },
+  {
+    "name": "Cow 4",
+    "weight": 600,
+    "food": 9
+  }
+]
